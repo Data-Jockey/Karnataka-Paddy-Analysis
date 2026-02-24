@@ -1,7 +1,7 @@
-# Karnataka Paddy Yield Analysis for Rabi Season
+# Karnataka Paddy Yield Analysis for Kharif Season
 
 ## Project Overview
-This project analyzes district-level paddy yield and production data for Karnataka during the Rabi Season.
+This project analyzes district-level paddy yield and production data for Karnataka during the Kharif Season.
 
 The objective is to:
 - Clean and validate agricultural data
@@ -17,7 +17,7 @@ The objective is to:
 - Seaborn
 
 ## Dataset
-District-wise paddy crop data (Rabi season), Karnataka.
+District-wise paddy crop data (Kharif season), Karnataka.
 
 ## Key Focus Areas
 - Data cleaning
