@@ -1,13 +1,24 @@
-# Karnataka Paddy Yield Analysis for Kharif Season
+# Karnataka Paddy Seasonal Analysis
 
 ## Project Overview
-This project analyzes district-level paddy yield and production data for Karnataka during the Kharif Season.
+This project analyzes district-level paddy crop data across three agricultural seasons in Karnataka:
 
-The objective is to:
-- Clean and validate agricultural data
-- Analyze yield and production trends
-- Compare district-level performance
-- Draw data-driven insights
+- Kharif
+- Rabi
+- Summer
+
+The objective is to perform a comparative seasonal analysis of:
+- Cultivation area (before and after bund correction)
+- Yield
+- Production
+- District-level performance variations
+
+## Key Analytical Focus
+- Seasonal yield comparison
+- Production trends across districts
+- Impact of bund correction factor
+- Cross-season performance analysis
+- Validation of “All Seasons” aggregates
 
 ## Tools Used
 - Python
@@ -17,14 +28,7 @@ The objective is to:
 - Seaborn
 
 ## Dataset
-District-wise paddy crop data (Kharif season), Karnataka.
-
-## Key Focus Areas
-- Data cleaning
-- Handling missing values
-- Yield vs Production analysis
-- District comparison
-- Basic visualization
+District-wise paddy crop data for Karnataka (multiple seasons).
 
 ## Author
 Rahul Kumar S
