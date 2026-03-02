@@ -3,11 +3,11 @@
 
 This project performs a district-level structural analysis of paddy cultivation in Karnataka across three agricultural seasons:
 
-Kharif
+- Kharif
 
-Rabi
+- Rabi
 
-Summer
+- Summer
 
 The study progresses from administrative validation (bund correction) to economic concentration assessment and structural classification.
 
