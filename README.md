@@ -11,50 +11,50 @@ This project performs a district-level structural analysis of paddy cultivation 
 
 The study progresses from administrative validation (bund correction) to economic concentration assessment and structural classification.
 
-Key Analytical Focus
+## Key Analytical Focus
 
-Validation of 2% Bund Correction Factor
+- Validation of 2% Bund Correction Factor
 
-Area vs Production Correlation (Scale Analysis)
+- Area vs Production Correlation (Scale Analysis)
 
-Yield Efficiency Assessment
+- Yield Efficiency Assessment
 
-District-Level Production Contribution
+- District-Level Production Contribution
 
-Pareto Concentration Analysis
+- Pareto Concentration Analysis
 
-Gini Coefficient (Inequality Measurement)
+- Gini Coefficient (Inequality Measurement)
 
-Structural Typology (Core, Scale, Outlier, Marginal Belts)
+- Structural Typology (Core, Scale, Outlier, Marginal Belts)
 
-Core Belt Dominance Quantification
+- Core Belt Dominance Quantification
 
-Key Findings
+## Key Findings
 
-Production is strongly scale-driven (r = 0.99).
+- Production is strongly scale-driven (r = 0.99).
 
-Top 5 districts contribute ~68% of total output.
+- Top 5 districts contribute ~68% of total output.
 
-Gini coefficient of 0.695 indicates extreme production concentration.
+- Gini coefficient of 0.695 indicates extreme production concentration.
 
-Core Belt contributes over 84% of statewide production.
+- Core Belt contributes over 84% of statewide production.
 
-Tools Used
+## Tools Used
 
-Python
+- Python
 
-Pandas
+- Pandas
 
-NumPy
+- NumPy
 
-Matplotlib
+- Matplotlib
 
-Seaborn
+- Seaborn
 
-Dataset
+## Dataset
 
 District-wise seasonal paddy crop data for Karnataka.
 
-Author
+## Author
 
 Rahul Kumar S
