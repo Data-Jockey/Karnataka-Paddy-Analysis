@@ -1,34 +1,60 @@
-# Karnataka Paddy Seasonal Analysis
-
+## Karnataka Paddy Structural Analysis
 ## Project Overview
-This project analyzes district-level paddy crop data across three agricultural seasons in Karnataka:
 
-- Kharif
-- Rabi
-- Summer
+This project performs a district-level structural analysis of paddy cultivation in Karnataka across three agricultural seasons:
 
-The objective is to perform a comparative seasonal analysis of:
-- Cultivation area (before and after bund correction)
-- Yield
-- Production
-- District-level performance variations
+Kharif
 
-## Key Analytical Focus
-- Seasonal yield comparison
-- Production trends across districts
-- Impact of bund correction factor
-- Cross-season performance analysis
-- Validation of “All Seasons” aggregates
+Rabi
 
-## Tools Used
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+Summer
 
-## Dataset
-District-wise paddy crop data for Karnataka (multiple seasons).
+The study progresses from administrative validation (bund correction) to economic concentration assessment and structural classification.
 
-## Author
+Key Analytical Focus
+
+Validation of 2% Bund Correction Factor
+
+Area vs Production Correlation (Scale Analysis)
+
+Yield Efficiency Assessment
+
+District-Level Production Contribution
+
+Pareto Concentration Analysis
+
+Gini Coefficient (Inequality Measurement)
+
+Structural Typology (Core, Scale, Outlier, Marginal Belts)
+
+Core Belt Dominance Quantification
+
+Key Findings
+
+Production is strongly scale-driven (r = 0.99).
+
+Top 5 districts contribute ~68% of total output.
+
+Gini coefficient of 0.695 indicates extreme production concentration.
+
+Core Belt contributes over 84% of statewide production.
+
+Tools Used
+
+Python
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
+
+Dataset
+
+District-wise seasonal paddy crop data for Karnataka.
+
+Author
+
 Rahul Kumar S
